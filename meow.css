@@ -1,0 +1,10 @@
+body::before {
+    content: "HELLO FROM MCHKLT";
+    color: red;
+    font-size: 24px;
+    font-weight: bold;
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
